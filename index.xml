@@ -11,5 +11,15 @@
     <copyright>All Copy Rights are reserved.</copyright>
     <atom:link href="https://nasertmimi.github.io/MyBlog/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Dog</title>
+      <link>https://nasertmimi.github.io/MyBlog/writeups/dog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Nasertmimi0@gmail.com (Naser Tmimi)</author>
+      <guid>https://nasertmimi.github.io/MyBlog/writeups/dog/</guid>
+      <description>Summary # Dog from Hackthebox.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nasertmimi.github.io/MyBlog/writeups/dog/featured.png" />
+    </item>
+    
   </channel>
 </rss>
