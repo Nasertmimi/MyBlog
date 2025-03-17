@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nasertmimi.github.io/MyBlog/sitemap.xml
